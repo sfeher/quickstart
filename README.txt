@@ -1,0 +1,1 @@
+This project is for demonstrating TinyMCE icon problem under Tomcat container running in deployment mode
